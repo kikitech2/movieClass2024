@@ -1,0 +1,5 @@
+public interface iMovieTickets {
+    int TotalMovieSales(int[] movieTicketSales);
+    String TopMovie(String[] movies, int[] totalSales);
+
+}
